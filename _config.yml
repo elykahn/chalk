@@ -4,8 +4,8 @@ baseurl: /
 name: Chalk
 paginate: 25
 paginate_path: "/posts/page/:num/"
-url: # add site url http://example.com/
-blog_theme: light # Or use dark
+url: https://elykahn.github.io/chalk/ # add site url http://example.com/
+blog_theme: dark
 
 # Optional settings
 
